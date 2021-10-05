@@ -22,12 +22,12 @@
 - 목요일
   
   3. [백준 1912번 - 연속합](https://www.acmicpc.net/problem/1912)
-  4. []()
+  4. [백준 15486번 - 퇴사 2](https://www.acmicpc.net/problem/15486)
 
 - 일요일
 
-  5. []()
-  6. []()
+  5. [백준 14888번 - 연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
+  6. [백준 2110번 - 공유기 설치](https://www.acmicpc.net/problem/2110)
 
 ---
 
